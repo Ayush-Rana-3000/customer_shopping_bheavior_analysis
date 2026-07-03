@@ -309,33 +309,8 @@ Customer-Shopping-Behavior-Analysis/
 
 ## Power BI Dashboard
 
-> *(Add your dashboard screenshot here)*
+![Power BI Dashboard](images/dashboard.png)
 
-```markdown
-![Dashboard](Images/dashboard.png)
-```
-
----
-
-## SQL Analysis
-
-> *(Add SQL output screenshots here)*
-
-```markdown
-![SQL](Images/sql_output.png)
-```
-
----
-
-## Data Cleaning
-
-> *(Add notebook screenshots here)*
-
-```markdown
-![Notebook](Images/preprocessing.png)
-```
-
----
 
 # 📚 Learning Outcomes
 
@@ -360,9 +335,6 @@ This project demonstrates practical knowledge of:
 
 Computer Science Student | Aspiring Data Analyst
 
-GitHub: https://github.com/<your-github-username>
-
-LinkedIn: https://linkedin.com/in/<your-linkedin>
 
 ---
 
