@@ -309,7 +309,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](dashboard.png)
 
 
 # 📚 Learning Outcomes
